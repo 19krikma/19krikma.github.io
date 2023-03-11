@@ -3,6 +3,6 @@ p#header_title{
     text-align: center;
 }
 
-b.header_title_url{
+.header_title_url{
     text-decoration: underline;
 }
