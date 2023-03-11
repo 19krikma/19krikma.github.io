@@ -1,7 +1,8 @@
-header_title{
+p#header_title{
     font-size: large;
+    text-align: center;
 }
 
-header_title_url{
+b.header_title_url{
     text-decoration: underline;
 }
