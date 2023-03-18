@@ -2,7 +2,7 @@ body{
     /*background-color: #616A6B;*/
     background-image: url("pexels-pixabay-531880.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     filter: blur(8px);
 }
 div.island-body{
