@@ -15,6 +15,7 @@ div.island-body{
 }
 
 p#header_title{
+    color: black;
     font-size: 200%;
     font-style: bold;
     text-align: center;
