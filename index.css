@@ -1,8 +1,13 @@
+body{
+    background-color: #45B39D;
+}
+.island-body{
+    background-color: white;
+    min-width: 90%;
+    min-height: 80%;
+}
+
 p#header_title{
     font-size: large;
     text-align: center;
-}
-
-.header_title_url{
-    text-decoration: underline;
 }
