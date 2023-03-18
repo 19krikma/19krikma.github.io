@@ -3,6 +3,7 @@ body{
     background-image: url("pexels-pixabay-531880.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    filter: blur(8px);
 }
 div.island-body{
     background-color: white;
