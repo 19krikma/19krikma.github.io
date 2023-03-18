@@ -7,6 +7,12 @@ body{
 
 div.body-title {
     width: 40%;
+    position: absolute;
+    text-align: center;
+    left: 30%;
+    top: 2%;
+    background-color: white;
+    opacity: 0.5;
 }
 
 div.island-body{
@@ -22,4 +28,5 @@ div.island-body{
 p#header_title{
     color: black;
     font-size: 200%;
+    border: 1px white solid;
 }
