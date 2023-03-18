@@ -1,6 +1,8 @@
 body{
     /*background-color: #616A6B;*/
-    background-color: url("pexels-pixabay-531880.jpg");
+    background-image: url("pexels-pixabay-531880.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 div.island-body{
     background-color: white;
