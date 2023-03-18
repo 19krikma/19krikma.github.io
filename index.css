@@ -20,11 +20,11 @@ div.island-body{
     position: absolute;
     left: 5%;
     right: auto;
-    bottom: 5%;
+    bottom: 2%;
 }
 
 p#header_title{
     color: black;
-    font-size: 200%;
+    font-size: 150%;
     border: 1px white solid;
 }
