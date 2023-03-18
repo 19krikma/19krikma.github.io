@@ -5,7 +5,9 @@ div.island-body{
     background-color: white;
     max-width: 90%;
     max-height: 80%;
-    position: inherit;
+    position: absolute;
+    left: auto;
+    right: auto;
 }
 
 p#header_title{
