@@ -4,8 +4,8 @@ body{
 div.island-body{
     background-color: white;
     max-width: 90%;
-    height: 80%;
-    position: absolute;
+    max-height: 80%;
+    position: inherit;
 }
 
 p#header_title{
