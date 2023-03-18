@@ -3,7 +3,7 @@ body{
 }
 div.island-body{
     background-color: white;
-    width: 90%;
+    max-width: 90%;
     height: 80%;
     position: absolute;
 }
